@@ -18,3 +18,29 @@ Paste the file you downloaded into RemixIDE to launch the program.Next After bui
 * string public tokenName="YOUR TOKENNAME";  // like in above code as BETA
 * string public tokenAbbrv="YOUR TOKENABV.";//  like in above code as BTA
 * string public totalSupply=Your total supply; // like in above code initally set as zero
+## Help
+
+Be aware and alert for some errors: 
+
+* You will notice if your code have an error check on the upper right side of your screen you will your mini-minimize entire code there that have a red lines, blue lines mean you are in that lines and red lines means error.
+
+* You will see a Red Exclamation Mark in that line so you will notice that there some errors
+
+* Check your File name if its red
+
+* Don't forget to count and check some valuable symbols
+* **_{  }_** , **_[ ]_** , **_( )_** , **_;_**
+
+
+## Authors
+
+Creator: Hrishabh Gupta
+
+Email: hrishabhguptapip@gmail.com
+
+Contact Number: 7696527292
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
